@@ -1,2 +1,2 @@
 # arduino-robot-kol-mk1
-MK1 robot kolu için gerekli olan dosyalar.
+Burada arslanrobotik.com web sitesi içerisindeki Arduino Robot Kol Projesi için gerekli olan bazı dosyalar yeralmaktadır. 
